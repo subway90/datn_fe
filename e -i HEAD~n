@@ -1,0 +1,72 @@
+[33mcommit 2e9f2fc9f94db01f777aa66e9ab5b9165fdfa628[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: subway90 <nguyenhieu3105@gmail.com>
+Date:   Wed Oct 16 19:56:48 2024 +0700
+
+    add icon, logo
+
+[33mcommit aec03f88b1b847cfa158709f857398fc91594bd5[m
+Author: subway90 <nguyenhieu3105@gmail.com>
+Date:   Tue Oct 15 17:30:26 2024 +0700
+
+    fix bug test
+
+[33mcommit 0d49c853539967781c39ebef565917831e0c74df[m
+Merge: 1bdcf0d 5d786de
+Author: Minh Hiếu <113250198+subway90@users.noreply.github.com>
+Date:   Tue Oct 15 17:23:55 2024 +0700
+
+    Merge pull request #3 from subway90/hieu_filter
+    
+    chức năng filter
+
+[33mcommit 5d786de3b28bd7285a8620407c6e98153dacabd3[m
+Author: subway90 <nguyenhieu3105@gmail.com>
+Date:   Tue Oct 15 17:16:10 2024 +0700
+
+    chức năng filter
+
+[33mcommit 1bdcf0d50eab640ce2e10b3f84c577c7804a16f2[m
+Merge: 84b4f83 0428ce4
+Author: manhtuonq <stronggwall04@gmail.com>
+Date:   Tue Oct 15 17:03:02 2024 +0700
+
+    update test
+
+[33mcommit 84b4f83529906b6d78496d3f1c80b7f5d2b3a7e7[m
+Author: manhtuonq <stronggwall04@gmail.com>
+Date:   Tue Oct 15 17:01:33 2024 +0700
+
+    test
+
+[33mcommit 0428ce40c3043c1382729bdf3efa45118b30d8f9[m
+Merge: 3ecea35 d42b549
+Author: manhtuonq <stronggwall04@gmail.com>
+Date:   Tue Oct 15 16:57:01 2024 +0700
+
+    Merge pull request #2 from subway90/tuong_1
+    
+    Tuong 1
+
+[33mcommit d42b5498ef01b43d479826dbcf6e204869757102[m
+Author: manhtuonq <stronggwall04@gmail.com>
+Date:   Tue Oct 15 16:48:31 2024 +0700
+
+    register
+
+[33mcommit f5016de712e74ac1544c7f19507bb28744e0dfc8[m
+Author: manhtuonq <stronggwall04@gmail.com>
+Date:   Tue Oct 15 16:46:12 2024 +0700
+
+    login feature
+
+[33mcommit 3ecea3501abd96ef5dee11d18b9c874f7099fe88[m
+Author: manhtuonq <stronggwall04@gmail.com>
+Date:   Tue Oct 15 16:32:54 2024 +0700
+
+    init
+
+[33mcommit 754f44756586e18edd72e6aa6d73ddce136236c5[m[33m ([m[1;31morigin/tuong[m[33m)[m
+Author: subway90 <nguyenhieu3105@gmail.com>
+Date:   Mon Oct 14 23:13:15 2024 +0700
+
+    first commit
